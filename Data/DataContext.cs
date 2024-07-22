@@ -21,9 +21,9 @@ namespace CaseStudy_NAL.Data
             base.OnModelCreating(modelBuilder);
 
             // Define unique index for IBAN in BankAccount model
-            modelBuilder.Entity<BankAccount>()
-                .HasIndex(b => b.IBAN)
-                .IsUnique();
+            //modelBuilder.Entity<BankAccount>()
+            //    .HasIndex(b => b.IBAN)
+            //    .IsUnique();
 
             modelBuilder.Entity<Vendor>()
                 .HasMany(v => v.BankAccount)

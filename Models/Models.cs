@@ -10,6 +10,8 @@ namespace CaseStudy_NAL.Models
     [VendorValidation]
     public class Vendor
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Ensure ID is auto-generated
         public int Id { get; set; }
         public string Name { get; set; }
         public string? Name2 { get; set; }

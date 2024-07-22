@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-07-22T18:44:41.2041165Z"
+    }
+  },
+  "parameters": {
+    "CaseStudyNAL20240722195435.resourceGroupLocation": {
+      "Name": "CaseStudyNAL20240722195435.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "32499556-f1c3-44a9-b7b5-fb493871f048"
+    },
+    "CaseStudyNAL20240722195435.resourceName": {
+      "Name": "CaseStudyNAL20240722195435.resourceName",
+      "Type": null,
+      "Value": "CaseStudyNAL20240722195435"
+    },
+    "CaseStudyNAL20240722195435.resourceGroupName": {
+      "Name": "CaseStudyNAL20240722195435.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CaseStudyNAL20240722195435ResourceGroup"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CaseStudyNAL20240722195435ResourceGroup"
+    },
+    "CaseStudyNAL20240722195435.subscriptionId": {
+      "Name": "CaseStudyNAL20240722195435.subscriptionId",
+      "Type": "subscription",
+      "Value": "32499556-f1c3-44a9-b7b5-fb493871f048"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Name": "mssql1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastus"
+    }
+  }
+}
