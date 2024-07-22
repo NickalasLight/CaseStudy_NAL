@@ -38,8 +38,10 @@ namespace CaseStudy_NAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("VendorId")
+                    b.HasIndex("IBAN")
                         .IsUnique();
+
+                    b.HasIndex("VendorId");
 
                     b.ToTable("BankAccounts");
                 });
@@ -119,8 +121,8 @@ namespace CaseStudy_NAL.Migrations
             modelBuilder.Entity("CaseStudy_NAL.Models.BankAccount", b =>
                 {
                     b.HasOne("CaseStudy_NAL.Models.Vendor", "Vendor")
-                        .WithOne("BankAccount")
-                        .HasForeignKey("CaseStudy_NAL.Models.BankAccount", "VendorId")
+                        .WithMany("BankAccount")
+                        .HasForeignKey("VendorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

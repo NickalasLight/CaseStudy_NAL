@@ -17,11 +17,7 @@ namespace CaseStudy_NAL.Validation
             var bankAccount = value as BankAccount;
             if (bankAccount != null)
             {
-                //TODO: remove field, should just automatically add. 
-                if (bankAccount.Id < 1)
-                {
-                    return new ValidationResult("Invalid ID, must be greater than 0 and not already exist.");
-                }
+
                 if (!string.IsNullOrEmpty(bankAccount.IBAN) && !Regex.IsMatch(bankAccount.IBAN, IbanPattern))
                 {
                     return new ValidationResult("Invalid IBAN format.");

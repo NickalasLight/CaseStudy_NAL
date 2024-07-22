@@ -74,6 +74,7 @@ namespace CaseStudy_NAL.Controllers
             return NoContent();
         }
 
+        //TODO: remove a bank account by passing the IBAN number as this is a unique account number
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBankAccount(int id)
         {

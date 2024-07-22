@@ -78,10 +78,15 @@ namespace CaseStudy_NAL.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+                name: "IX_BankAccounts_IBAN",
+                table: "BankAccounts",
+                column: "IBAN",
+                unique: true);
+
+            migrationBuilder.CreateIndex(
                 name: "IX_BankAccounts_VendorId",
                 table: "BankAccounts",
-                column: "VendorId",
-                unique: true);
+                column: "VendorId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_ContactPersons_VendorId",

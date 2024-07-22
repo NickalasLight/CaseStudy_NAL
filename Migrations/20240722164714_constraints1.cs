@@ -5,7 +5,7 @@
 namespace CaseStudy_NAL.Migrations
 {
     /// <inheritdoc />
-    public partial class constraintUpdates1 : Migration
+    public partial class constraints1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
