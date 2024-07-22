@@ -1,0 +1,6 @@
+@CaseStudy_NAL_HostAddress = http://localhost:5136
+
+GET {{CaseStudy_NAL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

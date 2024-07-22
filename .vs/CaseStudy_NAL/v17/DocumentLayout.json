@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\validation\\bankaccountvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:validation\\bankaccountvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\controllers\\contactpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:controllers\\contactpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\controllers\\bankaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:controllers\\bankaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\casestudy_nal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:casestudy_nal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|c:\\users\\nickl\\source\\repos\\casestudy_nal\\casestudy_nal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8ED91EEC-BF25-460F-BB19-6808A2D744F6}|CaseStudy_NAL.csproj|solutionrelative:casestudy_nal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Validation\\BankAccountValidationAttribute.cs",
+              "RelativeDocumentMoniker": "Validation\\BankAccountValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Validation\\BankAccountValidationAttribute.cs",
+              "RelativeToolTip": "Validation\\BankAccountValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:39:11.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T08:12:47.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Controllers\\ContactPersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactPersonController.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Controllers\\ContactPersonController.cs",
+              "RelativeToolTip": "Controllers\\ContactPersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:10:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Controllers\\BankAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BankAccountController.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Controllers\\BankAccountController.cs",
+              "RelativeToolTip": "Controllers\\BankAccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:05:33.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:53:41.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaseStudy_NAL",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\CaseStudy_NAL.csproj",
+              "RelativeDocumentMoniker": "CaseStudy_NAL.csproj",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\CaseStudy_NAL.csproj",
+              "RelativeToolTip": "CaseStudy_NAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T15:07:55.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "Controllers\\VendorController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:07:44.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:07:44.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Models\\Models.cs",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\Models\\Models.cs",
+              "RelativeToolTip": "Models\\Models.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIA3wBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:07:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CaseStudy_NAL.csproj",
+              "DocumentMoniker": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\CaseStudy_NAL.csproj",
+              "RelativeDocumentMoniker": "CaseStudy_NAL.csproj",
+              "ToolTip": "C:\\Users\\NickL\\source\\repos\\CaseStudy_NAL\\CaseStudy_NAL.csproj",
+              "RelativeToolTip": "CaseStudy_NAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T15:07:42.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
