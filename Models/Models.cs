@@ -50,6 +50,7 @@ namespace CaseStudy_NAL.Models
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        //TODO: Potentially make both the phone and the mail fields unique to a given person
         public string? Phone { get; set; }
         public string? Mail { get; set; }
         public int VendorId { get; set; }

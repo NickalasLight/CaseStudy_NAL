@@ -9,8 +9,8 @@ namespace CaseStudy_NAL.Validation
 
     public class BankAccountValidationAttribute : ValidationAttribute
     {
-        private const string IbanPattern = @"^[A-Z]{2}\d{2}([ ]?\d{4}){4}([ ]?\d{1,2})?$"; // Adjust pattern as necessary
-        private const string BicPattern = @"^[A-Z]{4}[A-Z]{2}[A-Z0-9]{2}([A-Z0-9]{3})?$"; // Adjust pattern as necessary
+        private const string IbanPattern = @"^[A-Z]{2}\d{2}([ ]?\d{4}){4}([ ]?\d{1,2})?$"; //TODO: Regex used for convenience but in production code preference is for something more easily read and maintained by multiple developers, even if it takes more lines of code.
+        private const string BicPattern = @"^[A-Z]{4}[A-Z]{2}[A-Z0-9]{2}([A-Z0-9]{3})?$"; 
 
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {

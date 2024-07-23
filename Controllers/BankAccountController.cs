@@ -5,7 +5,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CaseStudy_NAL.Controllers
 {
-    // Controllers/BankAccountController.cs
     [ApiController]
     [Route("api/[controller]")]
     public class BankAccountController : ControllerBase

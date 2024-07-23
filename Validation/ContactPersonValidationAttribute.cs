@@ -9,7 +9,7 @@ namespace CaseStudy_NAL.Validation
 
     public class ContactPersonValidationAttribute : ValidationAttribute
     {
-        private const string PhoneNumberPattern = @"^\+?(\d[\s\-\.]?)?(\((\d{1,3})\)[\s\-\.]?)?(\d[\s\-\.]?){6,14}$";
+        private const string PhoneNumberPattern = @"^\+?(\d[\s\-\.]?)?(\((\d{1,3})\)[\s\-\.]?)?(\d[\s\-\.]?){6,14}$"; //TODO: Regex used for convenience but in production code preference is for something more easily read and maintained by multiple developers, even if it takes more lines of code.
 
 
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
